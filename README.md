@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lucas Corrêa
 
-- Atualmente trabalho como fullstack developer utilziando a linguagem Delphi.
-- Estou estudando TypeScript e C# no momento.
+- Atualmente trabalho como fullstack developer utilizando a linguagem Delphi.
+- Estou estudando Java e Angular no momento.
 
 <div align="center">
   
